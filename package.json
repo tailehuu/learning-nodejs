@@ -1,0 +1,22 @@
+{
+  "name": "learning-nodejs",
+  "version": "1.0.0",
+  "description": "https://nodejs.dev/en/learn/introduction-to-nodejs/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tailehuu/learning-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tailehuu/learning-nodejs/issues"
+  },
+  "homepage": "https://github.com/tailehuu/learning-nodejs#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
