@@ -83,6 +83,7 @@ Asynchronous Programming Concepts
 
 ## 4. Asynchronous Work
 
-
+- Rendering, dispatch, callback, middleware, latency
+- Aysnc, await
 
 

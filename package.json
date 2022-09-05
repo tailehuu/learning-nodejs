@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tailehuu/learning-nodejs#readme",
   "dependencies": {
+    "csv": "^6.2.0",
     "lodash": "^4.17.21"
   }
 }
