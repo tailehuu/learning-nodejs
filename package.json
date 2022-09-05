@@ -18,6 +18,8 @@
   "homepage": "https://github.com/tailehuu/learning-nodejs#readme",
   "dependencies": {
     "csv": "^6.2.0",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "minimist": "^1.2.6",
+    "path": "^0.12.7"
   }
 }
